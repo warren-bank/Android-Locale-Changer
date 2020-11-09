@@ -28,6 +28,12 @@ Android app to change the default system-wide locale.
 * minSDK = 3 (Android 1.5 Cupcake)
 * no root
 
+#### Observations and Tips:
+
+* every time the locale is changed, the "Google Play Store" app starts downloading updates and such..
+  - for situations when this isn't desired, it's helpful to temporarily disable the "Google Play Store" app:
+    * _Settings &gt; Apps &gt; Google Play Store &gt; Disable_
+
 #### Legal:
 
 * copyright: [Warren Bank](https://github.com/warren-bank)
